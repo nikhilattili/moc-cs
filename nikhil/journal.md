@@ -1,5 +1,5 @@
-#MOS-CS
-###DAY1(22-06-2017)
+# MOS-CS
+### DAY1(22-06-2017)
 C50 pset1
 -mario1
 -mario2
